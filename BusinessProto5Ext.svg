@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24in"
+   height="18in"
+   viewBox="0 0 2160 1620"
+   id="svg4509"
+   sodipodi:docname="BusinessProto5Ext.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata4515">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4513" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview4511"
+     showgrid="false"
+     inkscape:document-units="in"
+     inkscape:zoom="0.37899852"
+     inkscape:cx="872.5403"
+     inkscape:cy="637.49844"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4509" />
+  <!-- Front-->
+  <g
+     transform="translate(22.5,157.5)"
+     id="g4487">
+    <polygon
+       style="fill:none;stroke:#000000;stroke-width:0.89999998"
+       points="0,0 0,720 720,720 720,0 "
+       id="polygon4485" />
+  </g>
+  <!-- Back-->
+  <g
+     transform="translate(742.5,157.5)"
+     id="g4491">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.89999998"
+       points="0, 0 720, 0 720, 720 0, 720"
+       id="polyline4489" />
+  </g>
+  <!-- Left-->
+  <g
+     transform="translate(1448.1,171.9)"
+     id="g4495">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.89999998"
+       points="14.4, 14.4 705.6, 14.4 705.6, 705.6 14.4, 705.6"
+       id="polyline4493" />
+  </g>
+  <!-- Right-->
+  <g
+     transform="translate(1448.1,863.1)"
+     id="g4499">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.89999998"
+       points="705.6, 14.4 705.6, 705.6 14.4, 705.6"
+       id="polyline4497" />
+  </g>
+  <!-- Top-->
+  <g
+     transform="translate(22.5,863.1)"
+     id="g4503">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.89999998"
+       points="0, 14.4 0, 705.6 720, 705.6 720, 14.4"
+       id="polyline4501" />
+  </g>
+  <!-- Bottom-->
+  <g
+     transform="translate(742.5,863.1)"
+     id="g4507">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.89999998"
+       points="0, 705.6 720, 705.6 720, 14.4"
+       id="polyline4505" />
+  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.27233446;stroke-opacity:1"
+     id="rect4517"
+     width="538.72766"
+     height="538.72766"
+     x="112.5"
+     y="247.5" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.27233446;stroke-opacity:1"
+     id="rect4517-9"
+     width="538.72772"
+     height="538.72772"
+     x="832.5"
+     y="247.5" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.27233446;stroke-opacity:1"
+     id="rect4517-0"
+     width="538.72772"
+     height="538.72772"
+     x="112.5"
+     y="967.5" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.27233446;stroke-opacity:1"
+     id="rect4517-0-6"
+     width="538.72778"
+     height="538.72778"
+     x="832.5"
+     y="967.5" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.27233446;stroke-opacity:1"
+     id="rect4517-0-6-7"
+     width="538.72784"
+     height="538.72784"
+     x="1552.5"
+     y="967.5" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.27233446;stroke-opacity:1"
+     id="rect4517-0-6-7-6"
+     width="538.72791"
+     height="538.72791"
+     x="1547.472"
+     y="271.27213" />
+</svg>
